@@ -1,0 +1,6 @@
+C:\Users\Web App Develop .Net\Desktop\My Test Dot Net\15.04.15 (Day 01)\DataTypeConversion\DataTypeConversion\bin\Debug\DataTypeConversion.exe.config
+C:\Users\Web App Develop .Net\Desktop\My Test Dot Net\15.04.15 (Day 01)\DataTypeConversion\DataTypeConversion\bin\Debug\DataTypeConversion.exe
+C:\Users\Web App Develop .Net\Desktop\My Test Dot Net\15.04.15 (Day 01)\DataTypeConversion\DataTypeConversion\bin\Debug\DataTypeConversion.pdb
+C:\Users\Web App Develop .Net\Desktop\My Test Dot Net\15.04.15 (Day 01)\DataTypeConversion\DataTypeConversion\obj\Debug\DataTypeConversion.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\My Test Dot Net\15.04.15 (Day 01)\DataTypeConversion\DataTypeConversion\obj\Debug\DataTypeConversion.exe
+C:\Users\Web App Develop .Net\Desktop\My Test Dot Net\15.04.15 (Day 01)\DataTypeConversion\DataTypeConversion\obj\Debug\DataTypeConversion.pdb
